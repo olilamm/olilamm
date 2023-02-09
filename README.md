@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 ## Education
 BA Geography- Geospatial Sciences and Technology, University of Tenneessee, Knoxville
+Minor in Economics 
 
 ## Employment
 - [ETDD - Internship: Alcoa, TN](https://www.etdd.org/)
