@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+## Education
+BA Geography- Geospatial Sciences and Technology, University of Tenneessee, Knoxville
 
 ## Employment
 - [ETDD - Internship: Alcoa, TN](https://www.etdd.org/)
@@ -13,7 +15,6 @@ Here are some ideas to get you started:
 
 ## Projects:
 - Moore Tornado Recovery and Relief Plan
-
 
 ## About Me:
 - 🔭 I’m currently working on ...
